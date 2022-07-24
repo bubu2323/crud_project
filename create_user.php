@@ -110,12 +110,4 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <?php include("partials/js-bs.html") ?>
   </body>
 
-
-
 </html>
-<!-- Realizzare un sito in grado di permettere la registrazione di un utente, questo deve poter inserire: 1 tipo di utente, 2: nome, 3: cognome, 4: indirizzo, 5:citta’
-Creare una tabella user con le colonne richieste
-Creare una tabella type che rappresenti il tipo di utente, che deve avere name, privilege, created at
-Utente, 1
-Editor, 2
-Admin, 3 -->
